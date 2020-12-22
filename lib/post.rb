@@ -11,7 +11,7 @@ class Post
     @title
   end
 
-  def artist
+  def author
     @author
   end
 
